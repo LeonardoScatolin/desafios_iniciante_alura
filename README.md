@@ -1,1 +1,1 @@
-om o objetivo de revisar os princípios básicos de programação, decidi iniciar a formação "Iniciante em Programação" da Alura. Ao longo do curso, resolvi os desafios propostos e publiquei as soluções como forma de consolidar o aprendizado e compartilhar meu progresso.
+Com o objetivo de revisar os princípios básicos de programação, decidi iniciar a formação "Iniciante em Programação" da Alura. Ao longo do curso, resolvi os desafios propostos e publiquei as soluções como forma de consolidar o aprendizado e compartilhar meu progresso.
